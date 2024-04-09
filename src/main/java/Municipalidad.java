@@ -12,7 +12,7 @@ public class Municipalidad {
 		throw new UnsupportedOperationException();
 	}
 
-	public List<Permiso> buscarPermiso() {
+	public List<Permiso> buscarPermiso(Tipo tipoGestion, Permiso fechaEmision, Permiso fechaVencimiento) {
 		throw new UnsupportedOperationException();
 	}
 
