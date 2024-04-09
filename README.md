@@ -1,1 +1,1 @@
-Gestion de de solicitud de permisos 
+Gestion de de solicitud de permisos. 
